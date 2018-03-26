@@ -1,0 +1,12 @@
+{
+  "name": "New Tab",
+  "description": "Read your life activities on a new tab.",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "permissions": [
+    "management"
+  ],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
