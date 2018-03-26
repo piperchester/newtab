@@ -1,0 +1,2 @@
+# newtab
+Simple Chrome extension.
