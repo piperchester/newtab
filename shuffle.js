@@ -4,7 +4,7 @@ setTimeout(() => {
         // ie. Read, Exercise, Meditate
     ];
 
-    // Build a templated list of <li>items</li>, alterating between colors
+    // Build a templated list of <li>items</li>, alternating between colors
     let template = ``;
     const startingCapacity = life.length - 1;
     for (let i = 0; i <= startingCapacity; ++i) {
